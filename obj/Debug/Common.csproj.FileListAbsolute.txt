@@ -1,0 +1,119 @@
+D:\tongxiaoyi\外卖app\takeAwayWebApi\webApi\takeAwayWebApi\Common\bin\Debug\Common.dll
+D:\tongxiaoyi\外卖app\takeAwayWebApi\webApi\takeAwayWebApi\Common\bin\Debug\Common.pdb
+D:\tongxiaoyi\外卖app\takeAwayWebApi\webApi\takeAwayWebApi\Common\obj\Debug\Common.dll
+D:\tongxiaoyi\外卖app\takeAwayWebApi\webApi\takeAwayWebApi\Common\obj\Debug\Common.pdb
+D:\tongxiaoyi\外卖app\takeAwayWebApi\webApi\takeAwayWebApi\Common\bin\Debug\Newtonsoft.Json.Net35.dll
+D:\tongxiaoyi\外卖app\takeAwayWebApi\webApi\takeAwayWebApi\Common\bin\Debug\Newtonsoft.Json.Net35.pdb
+D:\tongxiaoyi\外卖app\takeAwayWebApi\webApi\takeAwayWebApi\Common\bin\Debug\Newtonsoft.Json.Net35.xml
+D:\tongxiaoyi\外卖app\takeAwayWebApi\webApi\takeAwayWebApi\Common\bin\Debug\System.Net.Http.Formatting.dll
+D:\tongxiaoyi\外卖app\takeAwayWebApi\webApi\takeAwayWebApi\Common\bin\Debug\System.Web.Http.dll
+D:\tongxiaoyi\外卖app\takeAwayWebApi\webApi\takeAwayWebApi\Common\bin\Debug\System.Net.Http.Formatting.xml
+D:\tongxiaoyi\外卖app\takeAwayWebApi\webApi\takeAwayWebApi\Common\bin\Debug\System.Web.Http.xml
+D:\tongxiaoyi\外卖app\takeAwayWebApi\webApi\takeAwayWebApi\Common\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\tongxiaoyi\外卖app\takeAwayWebApi\webApi\takeAwayWebApi\Common\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+D:\tongxiaoyi\外卖app\takeAwayWebApi\webApi\takeAwayWebApi\Common\bin\Debug\AopSdk.dll
+D:\tongxiaoyi\外卖app\takeAwayWebApi\webApi\takeAwayWebApi\Common\bin\Debug\AopSdk.pdb
+D:\tongxiaoyi\外卖app\takeAwayWebApi\webApi\takeAwayWebApi\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\tongxiaoyi\通用\尝试把mamcached合入common\takeAwayWebApi - 1月19日\Common\obj\Debug\Common.dll
+D:\tongxiaoyi\通用\尝试把mamcached合入common\takeAwayWebApi - 1月19日\Common\obj\Debug\Common.pdb
+D:\tongxiaoyi\通用\尝试把mamcached合入common\takeAwayWebApi - 1月19日\Common\bin\Debug\Common.dll
+D:\tongxiaoyi\通用\尝试把mamcached合入common\takeAwayWebApi - 1月19日\Common\bin\Debug\Common.pdb
+D:\tongxiaoyi\通用\尝试把mamcached合入common\takeAwayWebApi - 1月19日\Common\bin\Debug\Newtonsoft.Json.Net35.dll
+D:\tongxiaoyi\通用\尝试把mamcached合入common\takeAwayWebApi - 1月19日\Common\bin\Debug\System.Net.Http.Formatting.dll
+D:\tongxiaoyi\通用\尝试把mamcached合入common\takeAwayWebApi - 1月19日\Common\bin\Debug\System.Web.Http.dll
+D:\tongxiaoyi\通用\尝试把mamcached合入common\takeAwayWebApi - 1月19日\Common\bin\Debug\AopSdk.pdb
+D:\tongxiaoyi\通用\尝试把mamcached合入common\takeAwayWebApi - 1月19日\Common\bin\Debug\Newtonsoft.Json.Net35.pdb
+D:\tongxiaoyi\通用\尝试把mamcached合入common\takeAwayWebApi - 1月19日\Common\bin\Debug\Newtonsoft.Json.Net35.xml
+D:\tongxiaoyi\通用\尝试把mamcached合入common\takeAwayWebApi - 1月19日\Common\bin\Debug\System.Net.Http.Formatting.xml
+D:\tongxiaoyi\通用\尝试把mamcached合入common\takeAwayWebApi - 1月19日\Common\bin\Debug\System.Web.Http.xml
+D:\tongxiaoyi\通用\尝试把mamcached合入common\takeAwayWebApi - 1月19日\Common\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\tongxiaoyi\通用\尝试把mamcached合入common\takeAwayWebApi - 1月19日\Common\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+D:\tongxiaoyi\通用\common\takeAwayWebApi - 1月19日\Common\bin\Debug\Common.dll
+D:\tongxiaoyi\通用\common\takeAwayWebApi - 1月19日\Common\bin\Debug\Common.pdb
+D:\tongxiaoyi\通用\common\takeAwayWebApi - 1月19日\Common\bin\Debug\Newtonsoft.Json.Net35.dll
+D:\tongxiaoyi\通用\common\takeAwayWebApi - 1月19日\Common\bin\Debug\System.Net.Http.Formatting.dll
+D:\tongxiaoyi\通用\common\takeAwayWebApi - 1月19日\Common\bin\Debug\System.Web.Http.dll
+D:\tongxiaoyi\通用\common\takeAwayWebApi - 1月19日\Common\bin\Debug\AopSdk.pdb
+D:\tongxiaoyi\通用\common\takeAwayWebApi - 1月19日\Common\bin\Debug\Newtonsoft.Json.Net35.pdb
+D:\tongxiaoyi\通用\common\takeAwayWebApi - 1月19日\Common\bin\Debug\Newtonsoft.Json.Net35.xml
+D:\tongxiaoyi\通用\common\takeAwayWebApi - 1月19日\Common\bin\Debug\System.Net.Http.Formatting.xml
+D:\tongxiaoyi\通用\common\takeAwayWebApi - 1月19日\Common\bin\Debug\System.Web.Http.xml
+D:\tongxiaoyi\通用\common\takeAwayWebApi - 1月19日\Common\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\tongxiaoyi\通用\common\takeAwayWebApi - 1月19日\Common\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+D:\tongxiaoyi\通用\common\takeAwayWebApi - 1月19日\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\tongxiaoyi\通用\common\takeAwayWebApi - 1月19日\Common\obj\Debug\Common.dll
+D:\tongxiaoyi\通用\common\takeAwayWebApi - 1月19日\Common\obj\Debug\Common.pdb
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\bin\Debug\Common.dll
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\bin\Debug\Common.pdb
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\bin\Debug\log4net.dll
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\bin\Debug\NPOI.dll
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\bin\Debug\NPOI.OOXML.dll
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\bin\Debug\NPOI.OpenXml4Net.dll
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\bin\Debug\System.Web.Mvc.dll
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\bin\Debug\ThoughtWorks.QRCode.dll
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\bin\Debug\log4net.xml
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\bin\Debug\NPOI.xml
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\bin\Debug\System.Web.Mvc.xml
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\obj\Debug\Common.dll
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\obj\Debug\Common.pdb
+D:\tongxiaoyi\数据采集检测抄表系统\code4.5\Common\bin\Debug\Common.dll
+D:\tongxiaoyi\数据采集检测抄表系统\code4.5\Common\bin\Debug\Common.pdb
+D:\tongxiaoyi\数据采集检测抄表系统\code4.5\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\tongxiaoyi\数据采集检测抄表系统\code4.5\Common\obj\Debug\Common.dll
+D:\tongxiaoyi\数据采集检测抄表系统\code4.5\Common\obj\Debug\Common.pdb
+D:\tongxiaoyi\数据采集检测抄表系统\code4.5\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\tongxiaoyi\数据采集检测抄表系统\code-4.5\Common\bin\Debug\Common.dll
+D:\tongxiaoyi\数据采集检测抄表系统\code-4.5\Common\bin\Debug\Common.pdb
+D:\tongxiaoyi\数据采集检测抄表系统\code-4.5\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\tongxiaoyi\数据采集检测抄表系统\code-4.5\Common\obj\Debug\Common.dll
+D:\tongxiaoyi\数据采集检测抄表系统\code-4.5\Common\obj\Debug\Common.pdb
+D:\tongxiaoyi\数据采集检测抄表系统\code-4.5\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api\Common\bin\Debug\Common.dll
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api\Common\bin\Debug\Common.pdb
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api\Common\obj\Debug\Common.dll
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api\Common\obj\Debug\Common.pdb
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\Common\bin\Debug\Common.dll
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\Common\bin\Debug\Common.pdb
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\Common\obj\Debug\Common.dll
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\Common\obj\Debug\Common.pdb
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\svn\Common\bin\Debug\Common.dll
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\svn\Common\bin\Debug\Common.pdb
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\svn\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\svn\Common\obj\Debug\Common.dll
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\svn\Common\obj\Debug\Common.pdb
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\svn\Common\obj\Debug\Common.csproj.CopyComplete
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\svn\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\svnNew\Common\bin\Debug\Common.dll
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\svnNew\Common\bin\Debug\Common.pdb
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\svnNew\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\svnNew\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\svnNew\Common\obj\Debug\Common.csproj.CopyComplete
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\svnNew\Common\obj\Debug\Common.dll
+D:\tongxiaoyi\燃气项目\无线（蓝牙）充值app\支付宝开发 - 106-五阶梯\code-api2222\svnNew\Common\obj\Debug\Common.pdb
+D:\tongxiaoyi\燃气项目\NB小表\NBCivil\Common\bin\Debug\Common.dll
+D:\tongxiaoyi\燃气项目\NB小表\NBCivil\Common\bin\Debug\Common.pdb
+D:\tongxiaoyi\燃气项目\NB小表\NBCivil\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\tongxiaoyi\燃气项目\NB小表\NBCivil\Common\obj\Debug\Common.csproj.CopyComplete
+D:\tongxiaoyi\燃气项目\NB小表\NBCivil\Common\obj\Debug\Common.dll
+D:\tongxiaoyi\燃气项目\NB小表\NBCivil\Common\obj\Debug\Common.pdb
+D:\tongxiaoyi\燃气项目\NB小表\NBCivil\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\tongxiaoyi\四季青\code\Common\bin\Debug\Common.dll
+D:\tongxiaoyi\四季青\code\Common\bin\Debug\Common.pdb
+D:\tongxiaoyi\四季青\code\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\tongxiaoyi\四季青\code\Common\obj\Debug\Common.csproj.CopyComplete
+D:\tongxiaoyi\四季青\code\Common\obj\Debug\Common.dll
+D:\tongxiaoyi\四季青\code\Common\obj\Debug\Common.pdb
+D:\tongxiaoyi\四季青\code\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\tongxiaoyi\动感单车二期\Common\bin\Debug\Common.dll
+D:\tongxiaoyi\动感单车二期\Common\bin\Debug\Common.pdb
+D:\tongxiaoyi\动感单车二期\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\tongxiaoyi\动感单车二期\Common\obj\Debug\Common.csproj.CopyComplete
+D:\tongxiaoyi\动感单车二期\Common\obj\Debug\Common.dll
+D:\tongxiaoyi\动感单车二期\Common\obj\Debug\Common.pdb

@@ -1,0 +1,2 @@
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\obj\x86\Debug\Common.csprojResolveAssemblyReference.cache
+D:\tongxiaoyi\数据采集检测抄表系统\code\Common\obj\x86\Debug\Common.csproj.CoreCompileInputs.cache
